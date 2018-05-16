@@ -1,7 +1,7 @@
 {
-  "name": "area-data",
-  "version": "5.0.6",
-  "author": "pomysky@gmail.com",
+  "name": "area-data-whole",
+  "version": "5.0.7",
+  "author": "lison<zhigang.li@tendcloud.com>",
   "description": "中国省、市、区数据(含港澳台)",
   "license": "MIT",
   "main": "./data.js",
